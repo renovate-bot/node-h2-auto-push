@@ -43,11 +43,11 @@
   },
   "dependencies": {
     "bloomfilter": "^0.0.18",
-    "mime-types": "^2.1.22"
+    "mime-types": "^3.0.0"
   },
   "devDependencies": {
     "@types/get-port": "^4.0.0",
-    "@types/mime-types": "^2.1.0",
+    "@types/mime-types": "^3.0.0",
     "@types/node": "^14.0.0",
     "@types/semver": "^7.0.0",
     "ava": "^3.0.0",
