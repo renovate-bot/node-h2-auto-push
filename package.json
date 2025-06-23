@@ -42,7 +42,7 @@
     "registry": "https://wombat-dressing-room.appspot.com"
   },
   "dependencies": {
-    "bloomfilter": "^0.0.18",
+    "bloomfilter": "^0.0.21",
     "mime-types": "^2.1.22"
   },
   "devDependencies": {
